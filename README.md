@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, meu nome é Pz</h1>
-<h3 align="center">Eu sou um desenvolvedor focado em front-end, porém to me aprofundando em back-end no momento!</h3>
+<h3 align="center">discord.gg/umbrella</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="pzdeveloper" /> </p>
 
